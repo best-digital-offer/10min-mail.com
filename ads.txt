@@ -1,6 +1,6 @@
-#Ads.txt 10minutemail.world
+#Ads.txt 10minutemailguide.world
 #Ads.txt managed by AdsTxtManager.com - the free ads.txt management tool for publishers
-ownerdomain=10minutemail.world
+ownerdomain=10minutemailguide.world
 contact=directsales@ezoic.com
 managerdomain=ezoic.ai
 
